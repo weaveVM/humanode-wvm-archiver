@@ -1,4 +1,4 @@
-name = "wvm-archiver"
+name = "humanode-wvm-archiver"
 
 assets = [
     ".env"
