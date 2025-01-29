@@ -1,3 +1,7 @@
 /target
 
 .env
+
+Secrets*.toml.shuttle*
+Secrets*.toml
+.shuttle*
